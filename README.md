@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Vanuja
-- 👀 I’m interested in AI technology and software developing
-- 🌱 I’m currently learning software engineering and web devolpment
-- 💞️ I’m looking to collaborate on software developing project
-- 📫 email me if you need to contact me vvidhmal@gmail.com
-- 
+ Hi, I’m @Vanuja
+ I’m interested in AI technology and software developing
+I’m currently learning software engineering and web devolpment
+I’m looking to collaborate on software developing project
+ email me if you need to contact me vvidhmal@gmail.com
+-
 
 
 <!---
